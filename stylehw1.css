@@ -1,0 +1,43 @@
+img {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+
+h3 {
+  color: white;
+  text-align: center;
+  background-color: black
+
+}
+
+.main_container {
+  display: flex;
+  box-sizing: border-box;
+}
+
+.left, .right, .center {
+  flex: 1;
+  margin: 2rem;
+
+
+}
+body {
+  background-color: lightgrey;
+  width: 70%;
+  margin-left: 14rem;
+
+}
+
+button {
+  width: 100%;
+}
+
+.event {
+  background-color: #00BFFF;
+  
+}
+
+.login {
+  background-color: orange;
+}
